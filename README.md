@@ -1,3 +1,4 @@
+                                                                    #AUTHOR: AQSA TARIQ
 #TITLE:Zoom on Hover Effect with HTML & CSS
 
 This project demonstrates a simple zoom-in hover effect using HTML and CSS. The webpage contains a div element styled with a gradient background and text that scales up when hovered over, providing a smooth zoom animation. The key elements of the code include:
